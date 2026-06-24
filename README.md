@@ -11,5 +11,4 @@ The repository is structured as follows to support both cold-start data generati
 
 > 📝 **Note on Benchmarks:** Standard evaluation and benchmark code are excluded from this repository to maintain anonymity/repository hygiene. Please download and run them directly from the official respective repositories.
 
-> Data Availability: The complete, full-scale dataset will be fully open-sourced upon the acceptance of the paper.
 
